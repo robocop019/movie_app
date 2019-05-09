@@ -1,0 +1,1 @@
+json.partial! @actor, partial: "actor", as: :actor
